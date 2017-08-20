@@ -41,7 +41,7 @@
 
 	<build>
 
-        <finalName>CounterWebApp</finalName>
+        <finalName>HelloWorldJava</finalName>
 
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
